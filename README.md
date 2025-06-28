@@ -29,6 +29,7 @@ This toolkit provides practical, self-contained tools that:
 | `lldptrace.py`  | Retrieves LLDP neighbor info and maps local-to-remote interface relationships |
 | `cdptrace.py`   | Correlates CDP neighbors and displays device-to-interface mappings |
 | `l3mapviz.py`   | Generates a simple HTML visualization of L3 interfaces and ARP entries |
+| `multicheck.py` |  Run route checks across multiple devices and compare next-hop results |
 
 ## Requirements
 
@@ -129,4 +130,4 @@ MIT License
 
 ## TODO
 
-- Multi-device probing and comparison
+TBD
